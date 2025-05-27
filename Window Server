@@ -1,1 +1,12 @@
+ Instalação Detalhada: Windows Server 2008
 
+- Em Máquina Virtual
+1. Crie uma nova VM no seu software de virtualização (VirtualBox, VMware, Hyper-V, Proxmox, etc.):
+
+- Tipo/SO: Windows / Windows Server 2008 (ou semelhante)
+   - RAM: 2 GB ou mais
+   - Disco virtual: mínimo de 32 GB (VDI/VMDK/VHD)
+   - CPU: mínimo 1 núcleo
+   - Rede: NAT ou Bridge
+
+2. Monte a ISO do Windows Server 2008 na unidade de CD/DVD da VM.
